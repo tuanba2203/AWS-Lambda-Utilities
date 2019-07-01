@@ -1,2 +1,5 @@
 # AWS-Lambda-Utilities
-Many Utilities for AWS Lambda
+Many Utilities for AWS Resources run by AWS Lambda
+- DynamoDB
+- ElasticSearch
+-...
